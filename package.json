@@ -2,7 +2,7 @@
   "name": "myreads",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://gleniox.github.io/MyReads/",
+  "homepage": "https://gleniox.github.io/MyReads",
   "dependencies": {
     "browser-router": "^0.2.0",
     "escape-string-regexp": "^1.0.5",
