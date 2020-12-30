@@ -1,4 +1,4 @@
-## MyReads Project
+## MyReads App
 The MyReads app is a (React.JS) bookshelf application that allows you to select and categorize books you have read, are currently reading, or want to read.
 
 ## App setup
