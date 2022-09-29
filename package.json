@@ -6,7 +6,7 @@
   "dependencies": {
     "browser-router": "^0.2.0",
     "escape-string-regexp": "^1.0.5",
-    "gh-pages": "^2.0.1",
+    "gh-pages": "^2.2.0",
     "history": "^4.7.2",
     "prop-types": "^15.5.8",
     "react": "^15.5.4",
